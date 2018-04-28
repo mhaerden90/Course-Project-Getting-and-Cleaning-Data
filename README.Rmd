@@ -1,0 +1,18 @@
+---
+title: "run_analysis"
+author: "Mathijs Haerden"
+date: "28 april 2018"
+output: html_document
+---
+
+## R Markdown
+
+The repository contains the following documents:
+- readme.Rmd
+- source data (UCI HAR dataset)
+- GettingandCleaningDataProject.txt: tidy dataset resulting from the course project
+- Run_Analysis.R : script used to generate a tidy dataset
+- Codebook: description of the attributes in the dataset and the transformations done. Please refer to this document for more information about the data.
+
+
+
